@@ -1,0 +1,16 @@
+.right{
+  float: right;
+}
+.image{
+  height: 50px;
+  width: 50px;
+}
+.heading{
+  color: rgb(35, 211, 208);
+}
+.body{
+  background: rgb(186, 186, 186);
+}
+.head{
+  background: white
+}
